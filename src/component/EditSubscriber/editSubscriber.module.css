@@ -1,0 +1,17 @@
+.modalContainer {
+  height: 10rem;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 14px 0 rgba(34, 60, 80, 0.1);
+  background-color: white;
+}
+
+.cancelButton {
+  margin-left: 1rem;
+  background-color: #ff4d4f;
+}

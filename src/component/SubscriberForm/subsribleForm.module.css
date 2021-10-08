@@ -1,0 +1,39 @@
+form {
+  width: 45vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+input {
+}
+
+.allInputsContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 1rem;
+}
+
+.inputItem {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.submitButton {
+  background-color: #52c41a;
+}
+
+.error {
+  font-size: 10px;
+  font-style: italic;
+  color: #ff4d4f;
+}

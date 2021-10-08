@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vasya Pupkin",
+    "phone": "+38 011 123 456 78",
+    "id": 1
+  },
+  {
+    "name": "Petya Petrov",
+    "phone": "+38 022 123 456 78",
+    "id": 2
+  },
+  {
+    "name": "Ivan Ivanov",
+    "phone": "+38 033 123 456 78",
+    "id": 3
+  }
+]
